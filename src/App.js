@@ -4,7 +4,7 @@ import ConverterPage from './pages/ConverterPage';
 import RatesPage from './pages/RatesPage';
 
 const App = () => {
-  const [baseCurrency, setBaseCurrency] = useState('USD');
+  const [baseCurrency, setBaseCurrency] = useState('RUB');
 
   return (
       <Router>
