@@ -1,1 +1,1 @@
-# practice2024
+# Simple currency converter
